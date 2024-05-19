@@ -1,2 +1,2 @@
 # phtapptemplate
-PHT App tempalte
+PHT App template
